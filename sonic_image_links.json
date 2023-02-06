@@ -117,10 +117,10 @@
   "date": ""
  },
 "sonic-barefoot.bin": {
-  "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzIxMjA2Ni9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5iYXJlZm9vdA2/content?format=file&subpath=/target/sonic-barefoot.bin",
-  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=212066&view=results",
-  "build": "212066",
-  "date": "2023-02-02T08:00:13.8303898Z"
+  "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzIxMzkyNy9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5iYXJlZm9vdA2/content?format=file&subpath=/target/sonic-barefoot.bin",
+  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=213927&view=results",
+  "build": "213927",
+  "date": "2023-02-06T08:00:19.3577414Z"
  },
 "sonic-centec.bin": {
   "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzIxMjYxMC9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5jZW50ZWM1/content?format=file&subpath=/target/sonic-centec.bin",
@@ -161,16 +161,16 @@
 },
 "202012": {
 "sonic-broadcom.bin": {
-  "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzIxMzQ5Mi9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5icm9hZGNvbQ2/content?format=file&subpath=/target/sonic-broadcom.bin",
-  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=213492&view=results",
-  "build": "213492",
-  "date": "2023-02-05T08:00:06.8754417Z"
+  "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzIxMzkxOS9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5icm9hZGNvbQ2/content?format=file&subpath=/target/sonic-broadcom.bin",
+  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=213919&view=results",
+  "build": "213919",
+  "date": "2023-02-06T08:00:18.3891394Z"
  },
 "sonic-aboot-broadcom.swi": {
-  "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzIxMzQ5Mi9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5icm9hZGNvbQ2/content?format=file&subpath=/target/sonic-aboot-broadcom.swi",
-  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=213492&view=results",
-  "build": "213492",
-  "date": "2023-02-05T08:00:06.8754417Z"
+  "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzIxMzkxOS9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5icm9hZGNvbQ2/content?format=file&subpath=/target/sonic-aboot-broadcom.swi",
+  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=213919&view=results",
+  "build": "213919",
+  "date": "2023-02-06T08:00:18.3891394Z"
  },
 "sonic-mellanox.bin": {
   "url": "https://artprodcus3.artifacts.visualstudio.com/Af91412a5-a906-4990-9d7c-f697b81fc04d/be1b070f-be15-4154-aade-b1d3bfb17054/_apis/artifact/cGlwZWxpbmVhcnRpZmFjdDovL21zc29uaWMvcHJvamVjdElkL2JlMWIwNzBmLWJlMTUtNDE1NC1hYWRlLWIxZDNiZmIxNzA1NC9idWlsZElkLzIxMzkxMy9hcnRpZmFjdE5hbWUvc29uaWMtYnVpbGRpbWFnZS5tZWxsYW5veA2/content?format=file&subpath=/target/sonic-mellanox.bin",
